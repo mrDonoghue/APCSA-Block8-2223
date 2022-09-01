@@ -5,7 +5,7 @@
 * [Join the replit team](https://replit.com/teams/join/zzepkxrthlgsbzxjcpyalzouuwlczedr-APCSA-Block8-2223)
 ### Intro to the course, replit, and Java
 * Course sketch
-* [Today's repl]
+* [Today's repl](https://replit.com/team/APCSA-Block8-2223/Basics)
 * Hello world
 * Why is Java so...Java?
 * Biggest differences btn. Java and Python
