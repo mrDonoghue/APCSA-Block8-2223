@@ -20,4 +20,4 @@
 * [Extra0](https://replit.com/team/APCSA-Block8-2223/Extra0)
 ## Resources
 * [Anonymous Comment Box](https://forms.gle/NGGE7UAr6ZFP4KWs6)
-* Join the replit team](https://replit.com/teams/join/zzepkxrthlgsbzxjcpyalzouuwlczedr-APCSA-Block8-2223)
+* [Join the replit team](https://replit.com/teams/join/zzepkxrthlgsbzxjcpyalzouuwlczedr-APCSA-Block8-2223)
