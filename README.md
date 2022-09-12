@@ -1,9 +1,12 @@
 # Links link
-
+## Warmup
+* If you were here Thursday, go [here](https://app.formative.com) and do the warmup
+* If not, [start this](https://docs.google.com/document/d/1_h0v_cgrjOu1TpCQQ7m7R4vpybqe2okUgwcpVGH8YdQ/edit?usp=sharing)
+    - try to get at least
 ## Today
-* [Instructions for the day](https://docs.google.com/document/d/1_h0v_cgrjOu1TpCQQ7m7R4vpybqe2okUgwcpVGH8YdQ/edit?usp=sharing)
+* [Instructions for Thursday](https://docs.google.com/document/d/1_h0v_cgrjOu1TpCQQ7m7R4vpybqe2okUgwcpVGH8YdQ/edit?usp=sharing)
 * [Demo](https://replit.com/@mrDonoghue/ZooDemoJ)
-* [Today's repl](https://replit.com/team/APCSA-Block8-2223/ZeroOrOne)
+* [Thursday's repl](https://replit.com/team/APCSA-Block8-2223/ZeroOrOne)
 * [Our notes so far](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
 
 
