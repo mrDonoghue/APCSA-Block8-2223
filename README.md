@@ -2,7 +2,10 @@
 ## Warmup
 * If you don't have working *code* in the [ZeroOrOne repl](https://replit.com/team/APCSA-Block8-2223/ZeroOrOne), try to write the code!
 * If you do have working code, try to fix the *formatting* and *readability* of the code
-* If you've already finished both of those, you're probably ahead of the curve. You'll need a side project soon. Start brainstorming some side projects. 
+* If you've already finished both of those, you're probably ahead of the curve. You'll need a side project soon. Start brainstorming some side projects
+    - maybe start by making the ZeroOrOne program better?
+    - maybe some little specialized calculator/tracker to help you with a common task?
+    - maybe a basic text-based game?
 
 ## Today
 * [ZeroOrOne repl](https://replit.com/team/APCSA-Block8-2223/ZeroOrOne)
