@@ -13,6 +13,7 @@
     - make sure your code is extremely read-able
     - *help* someone else. Do NOT show them your code or tell them exactly what to code
     - make your own special-purpose calculator (think like grade calculator, or the shape area calculator most of you did in CS9) in one of the Extra repls
+    - take turns code reviewing with someone else who is done
     - make your own side-project of some variety in one of the Extra repls
 
 ## Old
