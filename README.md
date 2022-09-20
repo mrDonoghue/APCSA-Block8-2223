@@ -4,9 +4,16 @@
 
 ## Today
 * [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
+* [AP Classroom](files/apclass.md)  
+
 * [Our notes so far](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
 * [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
 * [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
+* Options once finished with grades calculator:
+    - make sure your code is extremely read-able
+    - *help* someone else. Do NOT show them your code or tell them exactly what to code
+    - make your own special-purpose calculator (think like grade calculator, or the shape area calculator most of you did in CS9) in one of the Extra repls
+    - make your own side-project of some variety in one of the Extra repls
 
 ## Old
 * [Fixing Pseudocode](https://replit.com/team/APCSA-Block8-2223/FixingPseudocode)
