@@ -1,12 +1,12 @@
 # Links link
 ## Warmup
-* [09.16 Warmup](https://app.formative.com/formatives/6324ba7378197b80f43712ca)
+* [09.20 Warmup](https://app.formative.com/formatives/6329e44e441bc4667fd0757f)
 
 ## Today
+* [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
 * [Our notes so far](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
 * [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
 * [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
-* [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
 
 ## Old
 * [Fixing Pseudocode](https://replit.com/team/APCSA-Block8-2223/FixingPseudocode)
@@ -15,6 +15,7 @@
 * [ZeroOrOne repl](https://replit.com/team/APCSA-Block8-2223/ZeroOrOne)
 ## Extras
 * [Extra0](https://replit.com/team/APCSA-Block8-2223/Extra0)
+* [Extra1](https://replit.com/team/APCSA-Block8-2223/Extra1)
 ## Resources
 * [Anonymous Comment Box](https://forms.gle/NGGE7UAr6ZFP4KWs6)
 * [Join the replit team](https://replit.com/teams/join/zzepkxrthlgsbzxjcpyalzouuwlczedr-APCSA-Block8-2223)
