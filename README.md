@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-* [09.20 Warmup](https://app.formative.com/formatives/6329e44e441bc4667fd0757f)
+* [09.22 Warmup](https://app.formative.com/formatives/632c8345bf5790bde5f29346)
 
 ## Today
 * [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
