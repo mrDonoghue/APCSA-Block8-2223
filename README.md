@@ -4,15 +4,14 @@
 
 ## Today
 * [AP Classroom](files/apclass.md)  
+* [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
+* [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
 * Lab0
     - [Instructions](files/labs/lab0.md)
     - [repl](https://replit.com/team/APCSA-Block8-2223/Lab0Numismatics)
-
 * [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
 * [Our notes so far](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
-* [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
-* [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
-* Options once finished with grades calculator:
+* Options once finished with grades AP Classroom, grade calculator, and Lab 0:
     - make sure your code is extremely read-able
     - *help* someone else. Do NOT show them your code or tell them exactly what to code
     - make your own special-purpose calculator (think like grade calculator, or the shape area calculator most of you did in CS9) in one of the Extra repls
