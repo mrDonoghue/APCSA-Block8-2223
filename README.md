@@ -1,11 +1,14 @@
 # Links link
 ## Warmup
-* [09.22 Warmup](https://app.formative.com/formatives/632c8345bf5790bde5f29346)
+* [09.27 Warmup](https://app.formative.com/formatives/633348d9b415d5c03617a299)
 
 ## Today
-* [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
 * [AP Classroom](files/apclass.md)  
+* Lab0
+    - [Instructions](files/labs/lab0.md)
+    - [repl](https://replit.com/team/APCSA-Block8-2223/Lab0Numismatics)
 
+* [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
 * [Our notes so far](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
 * [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
 * [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
