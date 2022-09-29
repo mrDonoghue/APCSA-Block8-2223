@@ -1,9 +1,10 @@
 # Links link
 ## Warmup
-* [09.27 Warmup](https://app.formative.com/formatives/633348d9b415d5c03617a299)
+* Get started!!
 
 ## Today
-* [AP Classroom](files/apclass.md)  
+* [AP Classroom](files/apclass.md) if you didn't finish!!! **Join the course too**
+* [Progress Check 1](https://apclassroom.collegeboard.org/8/assessments/assignments/47528743/)
 * [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
 * [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
 * Lab0
