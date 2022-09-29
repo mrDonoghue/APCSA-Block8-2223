@@ -4,7 +4,7 @@
 
 ## Today
 * [AP Classroom](files/apclass.md) if you didn't finish!!! **Join the course too**
-* [Progress Check 1](https://apclassroom.collegeboard.org/8/assessments/assignments/47528743/)
+* [Progress Check 1a](https://apclassroom.collegeboard.org/8/assessments/assignments/47528743/)
 * [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
 * [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
 * Lab0
