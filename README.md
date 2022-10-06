@@ -19,7 +19,7 @@
     - make your own special-purpose calculator (think like grade calculator, or the shape area calculator most of you did in CS9) in one of the Extra repls
     - take turns code reviewing with someone else who is done
     - make your own side-project of some variety in one of the Extra repls
-    - [Progress Check 1b](https://apclassroom.collegeboard.org/8/assessments/assignments/47653195/)
+    - [Progress Check 1b](https://replit.com/team/APCSA-Block8-2223/Unit-1-Progress-Check-a-Reflection)
 
 ## Old
 * [Fixing Pseudocode](https://replit.com/team/APCSA-Block8-2223/FixingPseudocode)
