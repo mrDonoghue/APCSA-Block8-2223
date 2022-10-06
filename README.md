@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-* [Warmup 10.03](https://app.formative.com/formatives/633b0da2dfca8cf107611706)
+* [Warmup 10.06](https://app.formative.com/formatives/633ef5f6277f43cb5e7e44b1)
 
 ## Today
 * Reminder: Grades calculator needs finishing!!
@@ -19,6 +19,7 @@
     - make your own special-purpose calculator (think like grade calculator, or the shape area calculator most of you did in CS9) in one of the Extra repls
     - take turns code reviewing with someone else who is done
     - make your own side-project of some variety in one of the Extra repls
+    - [Progress Check 1b](https://apclassroom.collegeboard.org/8/assessments/assignments/47653195/)
 
 ## Old
 * [Fixing Pseudocode](https://replit.com/team/APCSA-Block8-2223/FixingPseudocode)
