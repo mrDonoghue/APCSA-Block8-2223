@@ -1,25 +1,26 @@
 # Links link
 ## Warmup
-* [Warmup 10.06](https://app.formative.com/formatives/633ef5f6277f43cb5e7e44b1)
+* None
 
 ## Today
-* Reminder: Grades calculator needs finishing!!
-* [Today's repl](https://replit.com/team/APCSA-Block8-2223/Constants-and-Casting)
-
-* Progress Check 1a
-    - [AP Classroom](https://apclassroom.collegeboard.org/8/assessments/assignments/47528743/)
-    - [Reflection](https://replit.com/team/APCSA-Block8-2223/Unit-1-Progress-Check-a-Reflection)
+* Reminder: [Grades calculator](https://replit.com/team/APCSA-Block8-2223/GradeCalculator) needs finishing!!
 * Lab0
     - [Instructions](files/labs/lab0.md)
     - [repl](https://replit.com/team/APCSA-Block8-2223/Lab0Numismatics)
 * [Our notes so far](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
+* Progress Check 1a
+    - [AP Classroom](https://apclassroom.collegeboard.org/8/assessments/assignments/47528743/)
+    - [Reflection](https://replit.com/team/APCSA-Block8-2223/Unit-1-Progress-Check-a-Reflection)
+
 * Options once finished with grades AP Classroom, grade calculator, and Lab 0:
     - make sure your code is extremely read-able
     - *help* someone else. Do NOT show them your code or tell them exactly what to code
     - make your own special-purpose calculator (think like grade calculator, or the shape area calculator most of you did in CS9) in one of the Extra repls
     - take turns code reviewing with someone else who is done
     - make your own side-project of some variety in one of the Extra repls
+    - Text-based animation bake-off: make the best text-based animation you can in [this repl](https://replit.com/team/APCSA-Block8-2223/Constants-and-Casting)
     - [Progress Check 1b](https://replit.com/team/APCSA-Block8-2223/Unit-1-Progress-Check-a-Reflection)
+
 
 ## Old
 * [Fixing Pseudocode](https://replit.com/team/APCSA-Block8-2223/FixingPseudocode)
