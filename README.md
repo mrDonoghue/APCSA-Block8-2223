@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-With your group pick one app/website/program. Identify *categories* of things in that app. I want a solid list
+Think about an email application. What are **attributes** and **behaviors** that every email in the `Email` class might have?
 
 ## Today
 * [Turtles!](https://replit.com/team/APCSA-Block8-2223/Turtles)
