@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-What are **attributes** and **behaviors** do Turtle objects have?
+What  **attributes** and **behaviors** do Turtle objects have?
 
 ## Today
 * [Turtles!](https://replit.com/team/APCSA-Block8-2223/Turtles)
