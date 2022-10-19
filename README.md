@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-Think about an email application. What are **attributes** and **behaviors** that every email in the `Email` class might have?
+What are **attributes** and **behaviors** do Turtle objects have?
 
 ## Today
 * [Turtles!](https://replit.com/team/APCSA-Block8-2223/Turtles)
