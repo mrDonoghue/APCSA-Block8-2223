@@ -1,9 +1,11 @@
 # Links link
 ## Warmup
-What  **attributes** and **behaviors** do Turtle objects have?
+[formative](https://app.formative.com/formatives/6352f4ea3fd0dd17bd42c090)
 
 ## Today
 * [Turtles!](https://replit.com/team/APCSA-Block8-2223/Turtles)
+* Lab1
+    * [Instructions](files/labs/lab1.md) and [repl](https://replit.com/team/APCSA-Block8-2223/Lab1Bibliophile)
 
 
 ## Old
