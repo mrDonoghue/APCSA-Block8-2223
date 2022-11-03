@@ -1,12 +1,14 @@
 # Links link
 ## Warmup
-[Reflection](https://forms.gle/DPC7SUeTEMJ94qp3A)
+Are you done with all the AP Classroom progress checks?
 
 ## Today
-* [Turtles!](https://replit.com/team/APCSA-Block8-2223/Turtles)
+* [Today's formative](https://app.formative.com/formatives/63642732987b83aa0df89f90)
+* [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * Lab1
     * [Instructions](files/labs/lab1.md) and [repl](https://replit.com/team/APCSA-Block8-2223/Lab1Bibliophile)
 * [Unit 2 Progress Check Pt a](https://apclassroom.collegeboard.org/8/assessments/assignments/48094398/) 
+* [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 
 
 ## Old
@@ -17,6 +19,7 @@
 * [int-eresting Numbers](https://replit.com/team/APCSA-Block8-2223/int-eresting-Numbers)
 * [Grades calculator demo](https://replit.com/@mrDonoghue/GradesDemoJ)
 * [Grades calculator repl](https://replit.com/team/APCSA-Block8-2223/GradeCalculator)
+* [Turtles!](https://replit.com/team/APCSA-Block8-2223/Turtles)
 
 ## Extras
 * [Extra0](https://replit.com/team/APCSA-Block8-2223/Extra0)
