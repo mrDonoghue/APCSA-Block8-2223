@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-* [Warmup formative](https://app.formative.com/formatives/63696ae81af83e2e9659d78e)
+* NONE
 
 ## Today
 * [Follow Along formative](https://app.formative.com/formatives/63642732987b83aa0df89f90)
