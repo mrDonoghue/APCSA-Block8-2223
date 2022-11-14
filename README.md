@@ -1,9 +1,8 @@
 # Links link
 ## Warmup
-* NONE
+* PLEASE START AS SOON AS YOU CAN: [form](https://forms.gle/XxA8CSYSPkEGT6pg6)
 
 ## Today
-* [Follow Along formative](https://app.formative.com/formatives/63642732987b83aa0df89f90)
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * [Unit 2 Progress Check Pt a](https://apclassroom.collegeboard.org/8/assessments/assignments/48094398/) 
 * [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringBasics)
