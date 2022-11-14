@@ -4,8 +4,14 @@
 
 ## Today
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
-* [Unit 2 Progress Check Pt a](https://apclassroom.collegeboard.org/8/assessments/assignments/48094398/) 
-* [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringBasics)
+* [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringPracticeGroup)
+* While stumped:
+    * do Progress Checks 1a, 1b, and 2a on [AP Classroom](https://www.apclassroom.collegeboard.org)
+    * direct link to [Unit 2 Progress Check Pt a](https://apclassroom.collegeboard.org/8/assessments/assignments/48094398/) 
+    * do the reflections for each progress check
+        - [1a](https://replit.com/team/APCSA-Block8-2223/Unit1A-Progress-Check)
+        - [1b](https://replit.com/team/APCSA-Block8-2223/Unit1B-Progress-Check)
+        - [2a](https://replit.com/team/APCSA-Block8-2223/Unit2A-Progress-Check)
 * [Course interest form](https://forms.gle/hZw9Ho16jGxaTac9A)
 
 
