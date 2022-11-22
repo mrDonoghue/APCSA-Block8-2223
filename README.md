@@ -5,6 +5,7 @@
 ## Today
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringPracticeGroup)
+    * for `isLexicographic` see the slides on `compareTo` in the String notes
 * [String notes](files/stringBasics.pdf)
 * While stumped:
     * do Progress Checks 1a, 1b, and 2a on [AP Classroom](https://www.apclassroom.collegeboard.org)
@@ -35,4 +36,5 @@
 ## Resources
 * [Anonymous Comment Box](https://forms.gle/NGGE7UAr6ZFP4KWs6)
 * [Join the replit team](https://replit.com/teams/join/zzepkxrthlgsbzxjcpyalzouuwlczedr-APCSA-Block8-2223)
-* [Our notes so far](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
+* [Unit1 Notes](https://drive.google.com/file/d/1OURaS812sPyaqV1LmvPY3AftyBiaWebt/view?usp=sharing)
+* [String notes](files/stringBasics.pdf)
