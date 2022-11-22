@@ -5,6 +5,7 @@
 ## Today
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringPracticeGroup)
+* [String notes](files/stringBasics.pdf)
 * While stumped:
     * do Progress Checks 1a, 1b, and 2a on [AP Classroom](https://www.apclassroom.collegeboard.org)
     * direct link to [Unit 2 Progress Check Pt a](https://apclassroom.collegeboard.org/8/assessments/assignments/48094398/) 
