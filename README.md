@@ -1,6 +1,6 @@
 # Links link
 ## Warmup
-* PLEASE START AS SOON AS YOU CAN: [form](https://forms.gle/XxA8CSYSPkEGT6pg6)
+* Gather with your group
 
 ## Today
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
