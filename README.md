@@ -1,6 +1,8 @@
 # Links link
 ## Warmup
 * Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
+* Try the TODO in `Main.java`
+* Try the TODOs in `Person.java`
 
 ## Today
 * Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
