@@ -1,8 +1,11 @@
 # Links link
 ## Warmup
-* Gather with your group
+* Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
 
 ## Today
+* Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
+* If you're bored during class discussion *because you already know this stuff* do a side project. My suggestion: text-based wordle clone
+## Old
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringPracticeGroup)
     * for `isLexicographic` see the slides on `compareTo` in the String notes
@@ -14,10 +17,8 @@
         - [1a](https://replit.com/team/APCSA-Block8-2223/Unit1A-Progress-Check)
         - [1b](https://replit.com/team/APCSA-Block8-2223/Unit1B-Progress-Check)
         - [2a](https://replit.com/team/APCSA-Block8-2223/Unit2A-Progress-Check)
-* [Course interest form](https://forms.gle/hZw9Ho16jGxaTac9A)
 
 
-## Old
 * [Fixing Pseudocode](https://replit.com/team/APCSA-Block8-2223/FixingPseudocode)
 * [Instructions for Thursday 09.08](https://docs.google.com/document/d/1_h0v_cgrjOu1TpCQQ7m7R4vpybqe2okUgwcpVGH8YdQ/edit?usp=sharing)
 * [Demo](https://replit.com/@mrDonoghue/ZooDemoJ)
