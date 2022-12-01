@@ -1,8 +1,8 @@
 # Links link
 ## Warmup
 * Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
-* Try the TODO in `Main.java`
-* Try the TODOs in `Person.java`
+* In `Person.java` add an instance variable to represent how much money a `Person` is currently carrying with them
+* In `Person.java` add a method called `getMoney()` that returns how much money the `Person` is currently carrying
 
 ## Today
 * Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
