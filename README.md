@@ -1,12 +1,9 @@
 # Links link
 ## Warmup
-* Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
-* In `Person.java` add an instance variable to represent how much money a `Person` is currently carrying with them
-* In `Person.java` add a method called `getMoney()` that returns how much money the `Person` is currently carrying
-
+* Get started on today's activity
 ## Today
 * Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
-* If you're bored during class discussion *because you already know this stuff* do a side project. My suggestion: text-based wordle clone
+* [Today's activity](files/ClassEx.md)
 ## Old
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringPracticeGroup)
