@@ -53,7 +53,7 @@ cap.setBestFriend(im);
 
 im.decreaseMoney(100);
 cap.increaseMoney(100);
-cap.setBestFriend(bucky);
+cap.setBestFriend(ws);
 Main.monetaryTransaction(cap, cap.getBestFriend(), 30);
 Main.monetaryTransaction(bucky, im.getBestFriend(), 50);
 ```
