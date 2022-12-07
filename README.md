@@ -1,9 +1,14 @@
 # Links link
 ## Warmup
-* Get started on today's activity
+* Read [this file](files/frq2Intro.pdf)
 ## Today
-* Open up [WritingClasses](https://replit.com/team/APCSA-Block8-2223/WritingClasses)
-* [Today's activity](files/ClassEx.md)
+* Open [this file](files/frq2Intro.pdf)
+* Open up the [FRQ2Intro repl](https://replit.com/team/APCSA-Block8-2223/FRQ2Intro)
+#### I finished before everyone else, what should I do?
+* If you want more FRQ2 practice, you could continue doing the problems in [this file](files/frq2Practice.pdf)
+* Alternatively, you could work on a side project! If you don't have a side project yet, get one!
+
+
 ## Old
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringPracticeGroup)
