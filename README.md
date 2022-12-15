@@ -1,12 +1,12 @@
 # Links link
-## Warmup
-* Read [this file](files/frq2Intro.pdf)
 ## Today
 * Open [this file](files/frq2Intro.pdf)
 * Open up the [FRQ2Intro repl](https://replit.com/team/APCSA-Block8-2223/FRQ2Intro)
 #### I finished before everyone else, what should I do?
 * If you want more FRQ2 practice, you could continue doing the problems in [this file](files/frq2Practice.pdf)
 * Alternatively, you could work on a side project! If you don't have a side project yet, get one!
+* [JavaFoundationReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961777/)
+* [JavaOOReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961677/)
 
 
 ## Old
