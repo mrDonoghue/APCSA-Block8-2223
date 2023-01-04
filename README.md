@@ -1,8 +1,8 @@
 # Links link
 ## Today
 * Alternatively, you could work on a side project! If you don't have a side project yet, get one!
-* [JavaFoundationReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961777/)
-* [JavaOOReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961677/)
+* [JavaFoundationReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961677/)
+* [JavaOOReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961777/)
 * [Hailstone FRQ](files/hailstone.pdf)
 
 
