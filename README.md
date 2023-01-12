@@ -1,11 +1,22 @@
 # Links link
 ## Today
+* [ArrayIntro](https://replit.com/team/APCSA-Block8-2223/ArrayIntro)
+* [AdvancedArrayChallenge](files/AdvancedArrayChallenge.md)
+<!-- * Alternatively, you could work on a side project! If you don't have a side project yet, get one! -->
+<!-- * [Hailstone FRQ](files/hailstone.pdf) -->
+```java
+/**
+ * Generates an array of specified size and fills it with the values 0, 1, ..., n-1
+ *
+ * @param size the size of the array to generate
+ * @return the generated array
+ */
+public static int[] createRangeArray(int size) {
+    // TODO: Implement this method
+}
+```
 * [JavaFoundationReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961677/)
 * [JavaOOReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961777/)
-* [Hailstone FRQ](files/hailstone.pdf)
-* Alternatively, you could work on a side project! If you don't have a side project yet, get one!
-* [ArrayIntro](https://replit.com/team/APCSA-Block8-2223/ArrayIntro)
-
 
 ## Old
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
