@@ -1,22 +1,60 @@
 # Links link
+## Warmup
+* Try to write a method called `printArray()` that does what it sounds like.
+
 ## Today
 * [ArrayIntro](https://replit.com/team/APCSA-Block8-2223/ArrayIntro)
 * [AdvancedArrayChallenge](files/AdvancedArrayChallenge.md)
 <!-- * Alternatively, you could work on a side project! If you don't have a side project yet, get one! -->
 <!-- * [Hailstone FRQ](files/hailstone.pdf) -->
+
 ```java
-/**
- * Generates an array of specified size and fills it with the values 0, 1, ..., n-1
+  /**
+   * Generates an array of values starting from
+   * a specified   start value and ending just before a specified stop value.
+   *
+   * @param start the starting value for the array
+   * @param stop the ending value for the array (the array will contain all values from start up to, but not including, stop)
+   * @return the generated array
+   */
+  public int[] createRange(int i, int j) {
+    // TODO: replace
+    return null;
+  }
+
+ /**
+ * Calculates the sum of all elements in an array of integers
  *
- * @param size the size of the array to generate
- * @return the generated array
+ * @param numbers an array of integers
+ * @return the sum of all elements in the array
  */
-public static int[] createRangeArray(int size) {
-    // TODO: Implement this method
-}
-```
+  public int sumArray(int[] arr) {
+    return 0;
+  }
+
+
+ /**
+ * Calculates the average (arithmetic mean) of all 
+ * elements in an array of integers
+ *
+ * @param numbers an array of integers
+ * @return the average of all elements in the array
+ */
+  public double averageArray(int[] arr) {
+    return 0.0;
+  }
+
+  /**
+  * Reverse the given array (in-place).
+  */
+  public void reverseArray(String[] arr) {
+    
+  }
+  ```
 * [JavaFoundationReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961677/)
+    - [reflection](https://replit.com/team/APCSA-Block8-2223/FoundationReviewReflection)
 * [JavaOOReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961777/)
+    - [reflection](https://replit.com/team/APCSA-Block8-2223/OOReviewReflection)
 
 ## Old
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
