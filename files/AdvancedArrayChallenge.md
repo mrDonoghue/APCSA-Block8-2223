@@ -7,7 +7,7 @@ Write a program that implements a simple inventory management system for a small
 * Product ID
 * Quantity in stock
 * Reorder threshold
-* Restock level
+* Restock level (when reordering, order enough that we have this amount total)
 
 The program should then provide the following functionality:
 
