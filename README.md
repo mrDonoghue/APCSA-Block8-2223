@@ -3,6 +3,7 @@
 Get started on the Array method challenges, the AdvancedArrayChallenge, or the progress checks/reflections.
 
 ## Today
+* [ArrayNotes](files/notes/Java-Arrays.pdf)
 * [ArrayIntro](https://replit.com/team/APCSA-Block8-2223/ArrayIntro)
 * [AdvancedArrayChallenge](files/AdvancedArrayChallenge.md)
 <!-- * Alternatively, you could work on a side project! If you don't have a side project yet, get one! -->
