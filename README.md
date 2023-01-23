@@ -9,6 +9,14 @@
 <!-- * [Hailstone FRQ](files/hailstone.pdf) -->
 
 ```java
+
+  /** Prints the given array
+  * @param arr The given array
+  */
+  public static void printArray(int[] arr) {
+    // TODO
+  }
+
   /**
    * Generates an array of values starting from
    * a specified   start value and ending just before a specified stop value.
@@ -17,18 +25,18 @@
    * @param stop the ending value for the array (the array will contain all values from start up to, but not including, stop)
    * @return the generated array
    */
-  public int[] createRange(int i, int j) {
+  public static int[] createRange(int i, int j) {
     // TODO: replace
     return null;
   }
 
- /**
+ /*
  * Calculates the sum of all elements in an array of integers
  *
  * @param numbers an array of integers
  * @return the sum of all elements in the array
  */
-  public int sumArray(int[] arr) {
+  public static int sumArray(int[] arr) {
     return 0;
   }
 
@@ -40,14 +48,14 @@
  * @param numbers an array of integers
  * @return the average of all elements in the array
  */
-  public double averageArray(int[] arr) {
+  public static double averageArray(int[] arr) {
     return 0.0;
   }
 
   /**
   * Reverse the given array (in-place).
   */
-  public void reverseArray(String[] arr) {
+  public static void reverseArray(String[] arr) {
     
   }
   ```
