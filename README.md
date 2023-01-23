@@ -1,13 +1,13 @@
 # Links link
 ## Warmup
-* Try to write a method called `printArray()` that does what it sounds like.
+Get started on the Array method challenges, the AdvancedArrayChallenge, or the progress checks/reflections.
 
 ## Today
 * [ArrayIntro](https://replit.com/team/APCSA-Block8-2223/ArrayIntro)
 * [AdvancedArrayChallenge](files/AdvancedArrayChallenge.md)
 <!-- * Alternatively, you could work on a side project! If you don't have a side project yet, get one! -->
 <!-- * [Hailstone FRQ](files/hailstone.pdf) -->
-
+* Array Method challenges (finish in the [ArrayIntro repl](https://replit.com/team/APCSA-Block8-2223/ArrayIntro) ):
 ```java
 
   /** Prints the given array
