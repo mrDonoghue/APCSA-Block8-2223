@@ -1,8 +1,9 @@
 # Links link
 ## Warmup
-Get started on the Array method challenges, the AdvancedArrayChallenge, or the progress checks/reflections.
 
 ## Today
+* [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListIntro)
+* [QuickReference](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf)
 * [ArrayNotes](files/notes/Java-Arrays.pdf)
 * [ArrayIntro](https://replit.com/team/APCSA-Block8-2223/ArrayIntro)
 * [AdvancedArrayChallenge](files/AdvancedArrayChallenge.md)
