@@ -1,10 +1,11 @@
 # Links link
 ## Warmup
-
+Try the first method in [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListPractice)
 ## Today
+* [ArrayNotes](files/notes/Java-Arrays.pdf)
+* [ArrayListNotes](files/notes/Java-ArrayList.pdf)
 * [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListIntro)
 * [QuickReference](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf)
-* [ArrayNotes](files/notes/Java-Arrays.pdf)
 * [ArrayIntro](https://replit.com/team/APCSA-Block8-2223/ArrayIntro)
 * [AdvancedArrayChallenge](files/AdvancedArrayChallenge.md)
 <!-- * Alternatively, you could work on a side project! If you don't have a side project yet, get one! -->
