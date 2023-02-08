@@ -2,6 +2,8 @@
 ## Warmup
 Try the first method in [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListPractice)
 ## Today
+* [Runestone](https://runestone.academy/runestone/default/user/register)
+  - use `VAPCSA23` as the course name!
 * [ArrayNotes](files/notes/Java-Arrays.pdf)
 * [ArrayListNotes](files/notes/Java-ArrayList.pdf)
 * [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListIntro)
