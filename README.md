@@ -1,9 +1,10 @@
 # Links link
 ## Warmup
-Try the first method in [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListPractice)
-## Today
-* [Runestone](https://runestone.academy/runestone/default/user/register)
+* If you didn't already sign up for [Runestone](https://runestone.academy/runestone/default/user/register), do that
   - use `VAPCSA23` as the course name!
+[Runestone warmup](https://runestone.academy/runestone/lti?assignment_id=129455)
+## Today
+* [2DArrays](https://runestone.academy/ns/books/published/VAPCSA23/Unit8-2DArray/topic-8-2-2D-array-loops-Day1.html)
 * [ArrayNotes](files/notes/Java-Arrays.pdf)
 * [ArrayListNotes](files/notes/Java-ArrayList.pdf)
 * [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListIntro)
