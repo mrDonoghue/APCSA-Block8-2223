@@ -1,10 +1,9 @@
 # Links link
 ## Warmup
-* If you didn't already sign up for [Runestone](https://runestone.academy/runestone/default/user/register), do that
-  - use `VAPCSA23` as the course name!
-[Runestone warmup](https://runestone.academy/runestone/lti?assignment_id=129455)
+[Runestone warmup](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=129730)
 ## Today
-* [2DArrays](https://runestone.academy/ns/books/published/VAPCSA23/Unit8-2DArray/topic-8-2-2D-array-loops-Day1.html)
+* [FRQ Flavor 4](https://runestone.academy/ns/books/published/VAPCSA23/Unit8-2DArray/grayImageA.html)
+* [2DArrayNotes](files/notes/)
 * [ArrayNotes](files/notes/Java-Arrays.pdf)
 * [ArrayListNotes](files/notes/Java-ArrayList.pdf)
 * [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListIntro)
