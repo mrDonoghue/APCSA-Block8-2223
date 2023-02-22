@@ -3,8 +3,10 @@
 [Runestone warmup](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=129730)
 ## Today
 * [FRQ Flavor 4](https://runestone.academy/ns/books/published/VAPCSA23/Unit8-2DArray/grayImageA.html)
-* [Unit678](https://apclassroom.collegeboard.org/8/assessments/assignments/49941252/)
-* [2DArrayNotes](files/notes/)
+* Unit 678 Practice MCQs:
+  - [questions](https://apclassroom.collegeboard.org/8/assessments/assignments/49941252/)
+  - [reflection](https://replit.com/team/APCSA-Block8-2223/Unit678Reflection)
+* [2DArrayNotes](files/notes/Java-2DArrays.pdf)
 * [ArrayNotes](files/notes/Java-Arrays.pdf)
 * [ArrayListNotes](files/notes/Java-ArrayList.pdf)
 * [ArrayListPractice](https://replit.com/team/APCSA-Block8-2223/ArrayListIntro)
