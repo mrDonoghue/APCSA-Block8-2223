@@ -1,7 +1,8 @@
 # Links link
 ## Warmup
-[Runestone warmup](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=130304)
+* Try to write a bit in the `Person` class in [this repl](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro) to give it a name variable, a constructor, and a getName method
 ## Today
+* [InheritanceIntro](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro)
 * [FRQ Flavor 4](https://runestone.academy/ns/books/published/VAPCSA23/Unit8-2DArray/grayImageA.html)
 * Unit 678 Practice MCQs:
   - [questions](https://apclassroom.collegeboard.org/8/assessments/assignments/49941252/)
