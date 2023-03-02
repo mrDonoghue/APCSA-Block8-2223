@@ -1,7 +1,14 @@
 # Links link
 ## Warmup
-* Try to write a bit in the `Person` class in [this repl](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro) to give it a name variable, a constructor, and a getName method
+
 ## Today
+* [QuickReference](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf)
+* [Practice exam](https://apclassroom.collegeboard.org/8/assessments/assignments/50208670/)
+* [instructions slides](https://drive.google.com/file/d/1Edd1vNTu5618dnuxFrxamDST9dEe3bxs/view?usp=share_link) [instructions video](https://www.loom.com/share/ffe0f6b142214ee88bdfb7424126ab8c) (only watch with headphones or outside)
+
+
+
+## Old
 * [InheritanceIntro](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro)
 * [FRQ Flavor 4](https://runestone.academy/ns/books/published/VAPCSA23/Unit8-2DArray/grayImageA.html)
 * Unit 678 Practice MCQs:
@@ -73,7 +80,6 @@
 * [JavaOOReview](https://apclassroom.collegeboard.org/8/assessments/assignments/48961777/)
     - [reflection](https://replit.com/team/APCSA-Block8-2223/OOReviewReflection)
 
-## Old
 * [StringBasics](https://replit.com/team/APCSA-Block8-2223/StringBasics)
 * [StringPractice](https://replit.com/team/APCSA-Block8-2223/StringPracticeGroup)
     * for `isLexicographic` see the slides on `compareTo` in the String notes
