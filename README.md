@@ -1,15 +1,17 @@
 # Links link
 ## Warmup
-* [March 06 Warmup](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=131285)
+* Change the Person class so that it has  firstName and lastName instance variables instead of just a name variable
+* [InheritanceIntro](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro)
+
 ## Today
+* [InheritanceIntro](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro)
 * [QuickReference](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf)
-* [Practice exam](https://apclassroom.collegeboard.org/8/assessments/assignments/50208670/)
-* [instructions slides](https://drive.google.com/file/d/1Edd1vNTu5618dnuxFrxamDST9dEe3bxs/view?usp=share_link) [instructions video](https://www.loom.com/share/ffe0f6b142214ee88bdfb7424126ab8c) (only watch with headphones or outside)
 
 
 
 ## Old
-* [InheritanceIntro](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro)
+* [Practice exam](https://apclassroom.collegeboard.org/8/assessments/assignments/50208670/)
+* [instructions slides](https://drive.google.com/file/d/1Edd1vNTu5618dnuxFrxamDST9dEe3bxs/view?usp=share_link) [instructions video](https://www.loom.com/share/ffe0f6b142214ee88bdfb7424126ab8c) (only watch with headphones or outside)
 * [FRQ Flavor 4](https://runestone.academy/ns/books/published/VAPCSA23/Unit8-2DArray/grayImageA.html)
 * Unit 678 Practice MCQs:
   - [questions](https://apclassroom.collegeboard.org/8/assessments/assignments/49941252/)
