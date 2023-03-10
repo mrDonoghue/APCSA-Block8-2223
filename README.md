@@ -1,11 +1,12 @@
 # Links link
 ## Warmup
-* Change the Person class so that it has  firstName and lastName instance variables instead of just a name variable
+* Add a Parent class. The Parent class should have an instance variable called `children` that stores that Parent's children
 * [InheritanceIntro](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro)
 
 ## Today
 * [InheritanceIntro](https://replit.com/team/APCSA-Block8-2223/InheritanceIntro)
 * [QuickReference](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf)
+* [Inheritance MCQ](https://apclassroom.collegeboard.org/8/assessments/assignments/50398953/)
 
 
 
