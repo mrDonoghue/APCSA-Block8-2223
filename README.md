@@ -1,6 +1,10 @@
 # Links link
 ## Warmup
-* [formative](https://app.formative.com/formatives/6437184de094d2ea85522783)
+* Look at random() on the [Quick Reference Sheet](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf).
+* Can you figure out how to use it to generate random doubles between 0 and 100?
+* Can you figure out how to use it to generate random doubles between -5 and 5?
+* Can you figure out how to use it to generate random ints between 0 and 10?
+* Can you figure out how to use it to generate random ints between -5 and 5?
 
 ## Today
 * [RecursionLevel0](https://apclassroom.collegeboard.org/8/assessments/assignments/50586095/)
