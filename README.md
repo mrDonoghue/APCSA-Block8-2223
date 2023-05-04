@@ -1,14 +1,11 @@
 # Links link
 ## Warmup
-* Look at random() on the [Quick Reference Sheet](https://apstudents.collegeboard.org/ap/pdf/ap-computer-science-a-java-quick-reference_0.pdf).
-* Can you figure out how to use it to generate random doubles between 0 and 100?
-* Can you figure out how to use it to generate random doubles between -5 and 5?
-* Can you figure out how to use it to generate random ints between 0 and 10?
-* Can you figure out how to use it to generate random ints between -5 and 5?
+* PLEASE fill out [this *ANONYMOUS* survey](https://forms.gle/gVN8772hQGNskf6a6)!! Please be as **brutally honest** in your critique of Mr Donoghue as you can
 
 ## Today
-* random
-* FRQ4s
+* survey
+* vent
+* what's next?
 ## Old
 * [RecursionLevel0](https://apclassroom.collegeboard.org/8/assessments/assignments/50586095/)
 * [RecursionPractice](https://replit.com/team/APCSA-Block8-2223/RecursionPractice)
