@@ -1,9 +1,8 @@
 # Links link
 ## Warmup
 * PLEASE fill out [this *ANONYMOUS* survey](https://forms.gle/gVN8772hQGNskf6a6)!! Please be as **brutally honest** in your critique of Mr Donoghue as you can
-
 ## Today
-* survey
+* [Robocode](https://robowiki.net/wiki/Robocode/Download_And_Install)
 * vent
 * what's next?
 ## Old
