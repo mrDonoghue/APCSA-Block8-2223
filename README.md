@@ -2,9 +2,8 @@
 ## Warmup
 * PLEASE fill out [this *ANONYMOUS* survey](https://forms.gle/gVN8772hQGNskf6a6)!! Please be as **brutally honest** in your critique of Mr Donoghue as you can
 ## Today
-* [Robocode](https://robowiki.net/wiki/Robocode/Download_And_Install)
-* vent
-* what's next?
+* [Robocode install](https://docs.google.com/document/d/1lidBr98KU5AXYq0ze324qgIThPGG2UN4MiUtmChUIf4/edit?usp=sharing)
+* [Robocode guide](https://robowiki.net/wiki/Robocode/My_First_Robot)
 ## Old
 * [RecursionLevel0](https://apclassroom.collegeboard.org/8/assessments/assignments/50586095/)
 * [RecursionPractice](https://replit.com/team/APCSA-Block8-2223/RecursionPractice)
